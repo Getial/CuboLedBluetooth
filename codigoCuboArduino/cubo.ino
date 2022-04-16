@@ -1,12 +1,3 @@
- /**********************************************************************************
- * TITULO: Código Cubo Led 3x3x3
- * AUTOR: Jhimmy Astoraque Durán
- * DESCRIPCION: Este es el código del video de cubo led parte1 y parte 2 con un set de animaciones completo.
- * CANAL YOUTUBE: https://www.youtube.com/c/jadsatv
- * © 2018
- * *******************************************************************************/
-
-
 // Const and global vars
 const byte Q0 = 2; // pins for columns
 const byte Q1 = 3;
